@@ -1,1 +1,1 @@
-{"proficiences": [["skill-survival", "skill-perception"], ["skill-intimidation", "skill-insight"], ["skill-religion", "skill-persuasion"], ["skill-religion", "skill-stealth"], ["skill-deception", "skill-religion"]]}
+{"proficiences": [["skill-insight", "skill-intimidation"], ["skill-performance", "skill-deception", "skill-insight", "skill-perception"], ["skill-acrobatics", "skill-perception"], ["skill-perception", "skill-survival", "skill-insight"], ["skill-history", "skill-arcana"]]}

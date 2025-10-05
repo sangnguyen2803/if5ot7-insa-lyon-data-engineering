@@ -1,6 +1,6 @@
 proficiences,race,name,class,attributes,spells,levels,language
-"['skill-survival', 'skill-perception']",dragonborn,Tammy,barbarian,"[7, 10, 18, 13, 18]",[],2,draconic
-"['skill-intimidation', 'skill-insight']",human,Brittany,paladin,"[14, 12, 18, 18, 14]","['remove-curse', 'find-steed', 'create-food-and-water']",3,primordial
-"['skill-religion', 'skill-persuasion']",elf,Deanna,cleric,"[17, 9, 14, 13, 19]","['contagion', 'bane', 'stone-shape']",1,abyssal
-"['skill-religion', 'skill-stealth']",tiefling,Mitchell,monk,"[16, 6, 13, 10, 19]",[],2,sylvan
-"['skill-deception', 'skill-religion']",gnome,Brenda,sorcerer,"[12, 19, 10, 12, 16]",['hypnotic-pattern'],2,undercommon
+"['skill-insight', 'skill-intimidation']",halfling,Derek,sorcerer,"[8, 13, 7, 16, 13]","['ice-storm', 'burning-hands', 'dancing-lights']",3,dwarvish
+"['skill-performance', 'skill-deception', 'skill-insight', 'skill-perception']",tiefling,Sandra,rogue,"[15, 15, 13, 7, 11]",[],3,draconic
+"['skill-acrobatics', 'skill-perception']",dragonborn,Fred,fighter,"[9, 7, 7, 11, 17]",[],3,undercommon
+"['skill-perception', 'skill-survival', 'skill-insight']",gnome,Angela,bard,"[11, 11, 16, 11, 9]","['greater-invisibility', 'suggestion', 'light']",3,halfling
+"['skill-history', 'skill-arcana']",elf,Jenna,wizard,"[11, 9, 15, 15, 17]","['identify', 'banishment', 'telekinesis']",2,giant
