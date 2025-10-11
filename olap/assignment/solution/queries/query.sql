@@ -26,6 +26,7 @@ FROM factsales f
 JOIN dimproduct pro ON f.ProductKey = pro.ProductKey
 GROUP BY pro.ProductName
 ORDER BY product_rank;
+
 -- Top Suppliers
 SELECT RANK() OVER (ORDER BY SUM(f.SalesAmount) DESC) AS supplier_rank, sup.SupplierName, SUM(f.SalesAmount) AS sales
 FROM factsales f
